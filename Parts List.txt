@@ -1,0 +1,22 @@
+This is a list of all the parts I used.
+
+List of parts used
+
+20x20 Aluminum extrusion - 2x 40cm, 3x 20cm
+20x20 Corner brackets - 4x
+20x20 Corner brackets - 2x
+20x20
+Metal rods - 4x 20cm rods, ø=6mm
+LM6UU - 8x
+T-nuts - 25-pack
+M5 screws
+M6 screws - 8x - For the four corners
+LeoBodnar BU0836A 12-Bit Joystick Controller
+LeoBodnar Hall sensor
+Neodymium magnets - 2x
+
+List of tools used
+Thread tapper - M6 - For making threads in the extrusions so you can fasten the corner brackets
+3D printer
+Screw drivers
+Soldering iron
