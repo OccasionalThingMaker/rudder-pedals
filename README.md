@@ -5,7 +5,7 @@ The aim is to have rudder pedals with working brakes, with the pedals themselves
 The mechanism is made from scratch by yours truly, with inspiration from various sources.
 
 The goal is to make a pair of pedals that are:
-* Easy to make
+* Easy to make (Requiring few tools, and a small 3D printer)
 * Reasonably cheap
 * Accurate and well functioning
 * Free to download
