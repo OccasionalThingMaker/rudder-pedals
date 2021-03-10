@@ -14,6 +14,7 @@ Status as of writing:
 The pedals are working and I'm starting to use them while "flying". 
 I still have to fix some small details, like the box for the bodnar control board.
 I've decided to postpone work on the full pedals with brake mechanism until I've I've finished all the details and the documentation.
+The STEP files are not complete, nor checked for faults.
 
 Contact me on reddit:
 https://www.reddit.com/user/OccasionalThingMaker/
